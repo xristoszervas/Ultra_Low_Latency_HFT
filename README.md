@@ -19,12 +19,6 @@ The system is implemented and synthesized using Vivado, with modules written in 
 
 ---
 
-##  Architecture Diagram
-
-![Ultra Low Latency HFT Architecture](./31c6a002-c95c-469f-82e8-375246f39dd2.png)
-
----
-
 ## System Components
 
 ### Algo-Logic FPGA Platform
